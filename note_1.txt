@@ -1,0 +1,5 @@
+requirments.txt
+libsfml-dev
+lebgl1-mesa-dev
+
+arial.ttf
